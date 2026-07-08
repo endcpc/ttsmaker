@@ -11,3 +11,5 @@ Designed for real-world usage, it integrates seamlessly into AI workflows, agent
 OpenAI-compatible '/v1/audio/speech' interface.
 
 SET API_KEY ENV.
+
+BINDING KV TTS_HISTORY.
